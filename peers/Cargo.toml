@@ -38,4 +38,4 @@ mc-connection-test-utils = { path = "../connection/test-utils" }
 mc-peers-test-utils = { path = "./test-utils" }
 
 rand_hc = "0.2"
-rand = "0.7"
+rand = "0.8"
