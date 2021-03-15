@@ -2147,7 +2147,7 @@ dependencies = [
  "binascii",
  "bincode",
  "bitflags",
- "cfg-if 0.1.10",
+ "cfg-if 1.0.0",
  "chrono",
  "digest 0.9.0",
  "displaydoc",
@@ -2191,7 +2191,7 @@ dependencies = [
 name = "mc-attest-net"
 version = "1.0.1-pre1"
 dependencies = [
- "cfg-if 0.1.10",
+ "cfg-if 1.0.0",
  "failure",
  "mbedtls",
  "mc-attest-core",
@@ -2232,7 +2232,7 @@ version = "1.0.1-pre1"
 dependencies = [
  "backtrace",
  "binascii",
- "cfg-if 0.1.10",
+ "cfg-if 1.0.0",
  "chrono",
  "failure",
  "hashbrown",
@@ -2572,7 +2572,7 @@ dependencies = [
 name = "mc-crypto-digestible"
 version = "1.0.1-pre1"
 dependencies = [
- "cfg-if 0.1.10",
+ "cfg-if 1.0.0",
  "curve25519-dalek",
  "ed25519-dalek",
  "generic-array 0.14.4",
@@ -2695,7 +2695,7 @@ dependencies = [
 name = "mc-crypto-rand"
 version = "1.0.1-pre1"
 dependencies = [
- "cfg-if 0.1.10",
+ "cfg-if 1.0.0",
  "getrandom 0.1.14",
  "rand 0.7.3",
  "rand_core 0.5.1",
