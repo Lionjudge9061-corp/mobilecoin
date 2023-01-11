@@ -35,7 +35,7 @@ generic-array = { version = "0.14", features = ["more_lengths"] }
 hex = { version = "0.4", default-features = false }
 hex_fmt = "0.3"
 prost = { version = "0.6.1", optional = true, default-features = false }
-prost-types = { version = "0.6.1", optional = true, default-features = false }
+prost-types = { version = "0.11.6", optional = true, default-features = false }
 rand_core = "0.5"
 rjson = "0.3"
 
